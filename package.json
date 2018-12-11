@@ -1,0 +1,11 @@
+{
+  "name": "gulp-pump",
+  "version": "0.0.1",
+  "description": "A node module for gulp that pipes streams together",
+  "author": "billypon <billypon@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billypon/gulp-pump.git"
+  }
+}
