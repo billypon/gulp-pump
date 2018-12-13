@@ -1,6 +1,6 @@
 {
   "name": "gulp-pump",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node module for gulp that pipes streams together",
   "author": "billypon <billypon@gmail.com>",
   "license": "MIT",
